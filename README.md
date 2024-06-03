@@ -23,60 +23,60 @@ I am a DevOps Engineer with a passion for automating and streamlining developmen
 ## Skills and Technologies
 ## Skills and Technologies
 
-- **Continuous Integration/Continuous Deployment (CI/CD)**:
-  !Jenkins
-  !GitLab CI/CD
-  !Travis CI
-  !CircleCI
+### Continuous Integration/Continuous Deployment (CI/CD)
+- !Jenkins
+- !GitLab CI/CD
+- !Travis CI
+- !CircleCI
 
-- **Infrastructure as Code (IaC)**:
-  !Terraform
-  !AWS CloudFormation
-  !Azure Resource Manager (ARM)
-  !Google Cloud Deployment Manager
+### Infrastructure as Code (IaC)
+- !Terraform
+- !AWS CloudFormation
+- !Azure Resource Manager (ARM)
+- !Google Cloud Deployment Manager
 
-- **Containerization**:
-  !Docker
-  !Kubernetes
-  !Docker Compose
-  !Amazon ECS
+### Containerization
+- !Docker
+- !Kubernetes
+- !Docker Compose
+- !Amazon ECS
 
-- **Configuration Management**:
-  !Ansible
-  !Puppet
-  !Chef
+### Configuration Management
+- !Ansible
+- !Puppet
+- !Chef
 
-- **Version Control**:
-  !Git
-  !GitHub
-  !GitLab
-  !Bitbucket
+### Version Control
+- !Git
+- !GitHub
+- !GitLab
+- !Bitbucket
 
-- **Cloud Platforms**:
-  !AWS
-  !Azure
-  !GCP
+### Cloud Platforms
+- !AWS
+- !Azure
+- !GCP
 
-- **Monitoring and Logging**:
-  !Prometheus
-  !Grafana
-  !ELK Stack
+### Monitoring and Logging
+- !Prometheus
+- !Grafana
+- !ELK Stack
 
-- **Scripting and Automation**:
-  !Bash
-  !Python
-  !PowerShell
+### Scripting and Automation
+- !Bash
+- !Python
+- !PowerShell
 
-- **Networking**:
-  !TCP/IP
-  !DNS
-  !Load Balancing
-  !VPN
+### Networking
+- !TCP/IP
+- !DNS
+- !Load Balancing
+- !VPN
 
-- **Security**:
-  !IAM
-  !Security Groups
-  !SSL Certificates
+### Security
+- !IAM
+- !Security Groups
+- !SSL
 
 ## Projects
 - [**CI/CD Pipeline Automation**](https://github.com/yourusername/ci-cd-pipeline): Automated the deployment pipeline using Jenkins and Docker for a microservices architecture.
