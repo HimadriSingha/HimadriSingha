@@ -21,61 +21,63 @@ Here are some ideas to get you started:
 I am a DevOps Engineer with a passion for automating and streamlining development processes to improve efficiency and scalability. I have expertise in various tools and technologies related to continuous integration, continuous deployment, infrastructure as code, and cloud computing.
 
 ## Skills and Technologies
+## Skills and Technologies
 
 - **Continuous Integration/Continuous Deployment (CI/CD)**:  
-  ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png)  
-  ![GitLab CI/CD](https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png)  
-  ![Travis CI](https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg)  
-  ![CircleCI](https://circleci.com/circleci-logo-stacked-fb-dark.png)  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/20px-Jenkins_logo.svg.png" alt="Jenkins">  
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI/CD">  
+  <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI">  
+  <img src="https://circleci.com/circleci-logo-stacked-fb-dark.png" alt="CircleCI">  
 
 - **Infrastructure as Code (IaC)**:  
-  ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)  
-  ![AWS CloudFormation](https://miro.medium.com/max/2788/1*OhmLq6W_5tuV2oKx5e45ow.png)  
-  ![Azure Resource Manager (ARM)](https://mseng.github.io/ARM-ttk-gallery/presenter/assets/images/ARM-logo.png)  
-  ![Google Cloud Deployment Manager](https://www.gstatic.com/devrel-devsite/prod/vf8d0f0f84a13b82e5df1cda7f6a3893f9fda65e350eebcbb9d3ff708fec2b9a5/cloud/images/favicons/one-google-logo.png)  
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform">  
+  <img src="https://miro.medium.com/max/2788/1*OhmLq6W_5tuV2oKx5e45ow.png" alt="AWS CloudFormation">  
+  <img src="https://mseng.github.io/ARM-ttk-gallery/presenter/assets/images/ARM-logo.png" alt="Azure Resource Manager (ARM)">  
+  <img src="https://www.gstatic.com/devrel-devsite/prod/vf8d0f0f84a13b82e5df1cda7f6a3893f9fda65e350eebcbb9d3ff708fec2b9a5/cloud/images/favicons/one-google-logo.png" alt="Google Cloud Deployment Manager">  
 
 - **Containerization**:  
-  ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)  
-  ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)  
-  ![Docker Compose](https://raw.githubusercontent.com/docker/compose/master/logo.png)  
-  ![Amazon ECS](https://d1q6f0aelx0por.cloudfront.net/product-logos/library-amazon-ecs-logo.png)  
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker">  
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes">  
+  <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" alt="Docker Compose">  
+  <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-amazon-ecs-logo.png" alt="Amazon ECS">  
 
 - **Configuration Management**:  
-  ![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)  
-  ![Puppet](https://www.vectorlogo.zone/logos/puppetlabs/puppetlabs-icon.svg)  
-  ![Chef](https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg)  
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible">  
+  <img src="https://www.vectorlogo.zone/logos/puppetlabs/puppetlabs-icon.svg" alt="Puppet">  
+  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="Chef">  
 
 - **Version Control**:  
-  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  
-  ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)  
-  ![GitLab](https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg)  
-  ![Bitbucket](https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg)  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">  
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="20">  
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab">  
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket">  
 
 - **Cloud Platforms**:  
-  ![Amazon Web Services (AWS)](https://d1.awsstatic.com/logos/aws-logo-lockups/AWS_Logo_PoweredBy_127x42.png)  
-  ![Microsoft Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)  
-  ![Google Cloud Platform (GCP)](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)  
+  <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/AWS_Logo_PoweredBy_127x42.png" alt="AWS">  
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure">  
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP">  
 
 - **Monitoring and Logging**:  
-  ![Prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg)  
-  ![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)  
-  ![ELK Stack (Elasticsearch, Logstash, Kibana)](https://miro.medium.com/max/400/1*83pJksnYkTRdzm-lL_L2Hg.png)  
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus">  
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana">  
+  <img src="https://miro.medium.com/max/400/1*83pJksnYkTRdzm-lL_L2Hg.png" alt="ELK Stack">  
 
 - **Scripting and Automation**:  
-  ![Shell scripting](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)  
-  ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)  
-  ![PowerShell](https://www.vectorlogo.zone/logos/powershell/powershell-icon.svg)  
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash">  
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">  
+  <img src="https://www.vectorlogo.zone/logos/powershell/powershell-icon.svg" alt="PowerShell">  
 
 - **Networking**:  
-  ![TCP/IP](https://www.vectorlogo.zone/logos/tcpip/tcpip-icon.svg)  
-  ![DNS](https://www.vectorlogo.zone/logos/bind9/bind9-icon.svg)  
-  ![Load Balancing](https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg)  
-  ![VPNs](https://www.vectorlogo.zone/logos/openvpn/openvpn-icon.svg)  
+  <img src="https://www.vectorlogo.zone/logos/tcpip/tcpip-icon.svg" alt="TCP/IP">  
+  <img src="https://www.vectorlogo.zone/logos/bind9/bind9-icon.svg" alt="DNS">  
+  <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" alt="Load Balancing">  
+  <img src="https://www.vectorlogo.zone/logos/openvpn/openvpn-icon.svg" alt="VPN">  
 
 - **Security**:  
-  ![Identity and Access Management (IAM)](https://www.vectorlogo.zone/logos/aws/aws-icon.svg)  
-  ![Security Groups](https://www.vectorlogo.zone/logos/aws/aws-icon.svg)  
-  ![SSL Certificates](https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg)  
+  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="IAM">  
+  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="Security Groups">  
+  <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" alt="SSL">
+
 
 
 ## Projects
@@ -88,7 +90,7 @@ I am a DevOps Engineer with a passion for automating and streamlining developmen
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimadriSingha&layout=compact&theme=radical)
 
 ## Contact
 - **Email**: your.email@example.com
