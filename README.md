@@ -1,79 +1,84 @@
-## Hi there 👋
+# Hi there, I'm Himadri 👋
 
-<!--
-**HimadriSingha/HimadriSingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/HimadriSingha?style=social)
+![GitHub stars](https://img.shields.io/github/stars/HimadriSingha?style=social)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Profile Image](https://avatars.githubusercontent.com/yourusername)
-# Hello, I'm Your Name!
+- 🔭 I’m currently working on GIS Project
+- 🌱 I’m currently learning GO.
+- 👯 I’m looking to collaborate on My project
+- 💬 Ask me about MySkills.
+- 📫 How to reach me: [email@example.com]
+- ⚡ Fun fact: [something interesting about you]
 
-## About Me
-I am a DevOps Engineer with a passion for automating and streamlining development processes to improve efficiency and scalability. I have expertise in various tools and technologies related to continuous integration, continuous deployment, infrastructure as code, and cloud computing.
+## 🛠️ Technologies & Tools
 
-## Skills and Technologies
-![Profile Image](https://avatars.githubusercontent.com/yourusername)
-# Hello, I'm Your Name!
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000&color=000" alt="HTML5" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000&color=000" alt="CSS3" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000&color=000" alt="JavaScript" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=000&color=000" alt="PHP" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000&color=000" alt="Python" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django&logoColor=092E20&labelColor=000&color=000" alt="Django" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" alt="React" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-React%20Native-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" alt="React Native" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000&color=000" alt="Next.js" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Angular-333?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=000&color=000" alt="Angular" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000&color=000" alt="Node.js" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000&color=000" alt="Express" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000&color=000" alt="TypeScript" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=000&color=000" alt="Bootstrap" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-333?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=000&color=000" alt="Tailwind CSS" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=000&color=000" alt="SCSS" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000&color=000" alt="Git" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000&color=000" alt="MongoDB" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000&color=000" alt="MySQL" style="border-radius: 50%;" height="40"/>
+</p>
 
-## About Me
-I am a DevOps Engineer with a passion for automating and streamlining development processes to improve efficiency and scalability. I have expertise in various tools and technologies related to continuous integration, continuous deployment, infrastructure as code, and cloud computing.
+## 🚀 My Projects
 
-## Skills and Technologies
+Here are some of my favorite projects:
 
-### Continuous Integration/Continuous Deployment (CI/CD)
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins&logoColor=white)
-- ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-000?&logo=gitlab&logoColor=white)
-- ![Travis CI](https://img.shields.io/badge/-Travis%20CI-000?&logo=travis-ci&logoColor=white)
-- ![CircleCI](https://img.shields.io/badge/-CircleCI-000?&logo=circleci&logoColor=white)
+- [*Project 1*](https://github.com/7735Kanhu/project1): A brief description of your project.
+- [*Project 2*](https://github.com/7735Kanhu/project2): A brief description of your project.
+- [*Project 3*](https://github.com/7735Kanhu/project3): A brief description of your project.
 
-### Infrastructure as Code (IaC)
-- ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform&logoColor=white)
-- ![AWS CloudFormation](https://img.shields.io/badge/-AWS%20CloudFormation-000?&logo=amazon-aws&logoColor=white)
-- ![Azure Resource Manager (ARM)](https://img.shields.io/badge/-Azure%20Resource%20Manager-000?&logo=microsoft-azure&logoColor=white)
-- ![Google Cloud Deployment Manager](https://img.shields.io/badge/-Google%20Cloud%20Deployment%20Manager-000?&logo=google-cloud&logoColor=white)
+## 📊 GitHub Stats
 
-### Containerization
-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes&logoColor=white)
-- ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=docker&logoColor=white)
-- ![Amazon ECS](https://img.shields.io/badge/-Amazon%20ECS-000?&logo=amazon-aws&logoColor=white)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=7735Kanhu&show_icons=true&theme=radical" alt="Kanhu's GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7735Kanhu&theme=radical" alt="Kanhu's GitHub streak stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7735Kanhu&layout=compact&theme=radical" alt="Kanhu's Top Languages" height="180em"/>
+</p>
 
-### Configuration Management
-- ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=ansible&logoColor=white)
-- ![Puppet](https://img.shields.io/badge/-Puppet-000?&logo=puppet&logoColor=white)
-- ![Chef](https://img.shields.io/badge/-Chef-000?&logo=chef&logoColor=white)
+## 🌟 Pinned Repositories
 
-### Version Control
-- ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)
-- ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab&logoColor=white)
-- ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=bitbucket&
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project1&theme=radical)](https://github.com/7735Kanhu/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project2&theme=radical)](https://github.com/7735Kanhu/project2)
 
-## Projects
-- [**CI/CD Pipeline Automation**](https://github.com/yourusername/ci-cd-pipeline): Automated the deployment pipeline using Jenkins and Docker for a microservices architecture.
-- [**Infrastructure as Code with Terraform**](https://github.com/yourusername/terraform-aws): Implemented infrastructure provisioning on AWS using Terraform, enabling infrastructure as code practices.
-- [**Kubernetes Cluster Deployment**](https://github.com/yourusername/kubernetes-cluster): Setup and managed a Kubernetes cluster on AWS for container orchestration and scalability.
+## 📝 Blog Posts
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+Check out my latest blog posts:
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimadriSingha&layout=compact&theme=radical)
+- [*Title of Blog Post 1*](https://link-to-blog1.com)
+- [*Title of Blog Post 2*](https://link-to-blog2.com)
+- [*Title of Blog Post 3*](https://link-to-blog3.com)
 
-## Contact
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)
+## 📫 Connect with Me
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourprofile?style=social)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-handle)
+- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+
+## 🏅 Achievements
+
+- [Achievement 1](https://link-to-achievement)
+- [Achievement 2](https://link-to-achievement)
+- [Achievement 3](https://link-to-achievement)
+
+## ❤️ Support Me
+
+If you like my work, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourprofile)
