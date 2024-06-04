@@ -21,62 +21,42 @@ Here are some ideas to get you started:
 I am a DevOps Engineer with a passion for automating and streamlining development processes to improve efficiency and scalability. I have expertise in various tools and technologies related to continuous integration, continuous deployment, infrastructure as code, and cloud computing.
 
 ## Skills and Technologies
+![Profile Image](https://avatars.githubusercontent.com/yourusername)
+# Hello, I'm Your Name!
+
+## About Me
+I am a DevOps Engineer with a passion for automating and streamlining development processes to improve efficiency and scalability. I have expertise in various tools and technologies related to continuous integration, continuous deployment, infrastructure as code, and cloud computing.
+
 ## Skills and Technologies
 
 ### Continuous Integration/Continuous Deployment (CI/CD)
-- !Jenkins
-- !GitLab CI/CD
-- !Travis CI
-- !CircleCI
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins&logoColor=white)
+- ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-000?&logo=gitlab&logoColor=white)
+- ![Travis CI](https://img.shields.io/badge/-Travis%20CI-000?&logo=travis-ci&logoColor=white)
+- ![CircleCI](https://img.shields.io/badge/-CircleCI-000?&logo=circleci&logoColor=white)
 
 ### Infrastructure as Code (IaC)
-- !Terraform
-- !AWS CloudFormation
-- !Azure Resource Manager (ARM)
-- !Google Cloud Deployment Manager
+- ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform&logoColor=white)
+- ![AWS CloudFormation](https://img.shields.io/badge/-AWS%20CloudFormation-000?&logo=amazon-aws&logoColor=white)
+- ![Azure Resource Manager (ARM)](https://img.shields.io/badge/-Azure%20Resource%20Manager-000?&logo=microsoft-azure&logoColor=white)
+- ![Google Cloud Deployment Manager](https://img.shields.io/badge/-Google%20Cloud%20Deployment%20Manager-000?&logo=google-cloud&logoColor=white)
 
 ### Containerization
-- !Docker
-- !Kubernetes
-- !Docker Compose
-- !Amazon ECS
+- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes&logoColor=white)
+- ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=docker&logoColor=white)
+- ![Amazon ECS](https://img.shields.io/badge/-Amazon%20ECS-000?&logo=amazon-aws&logoColor=white)
 
 ### Configuration Management
-- !Ansible
-- !Puppet
-- !Chef
+- ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=ansible&logoColor=white)
+- ![Puppet](https://img.shields.io/badge/-Puppet-000?&logo=puppet&logoColor=white)
+- ![Chef](https://img.shields.io/badge/-Chef-000?&logo=chef&logoColor=white)
 
 ### Version Control
-- !Git
-- !GitHub
-- !GitLab
-- !Bitbucket
-
-### Cloud Platforms
-- !AWS
-- !Azure
-- !GCP
-
-### Monitoring and Logging
-- !Prometheus
-- !Grafana
-- !ELK Stack
-
-### Scripting and Automation
-- !Bash
-- !Python
-- !PowerShell
-
-### Networking
-- !TCP/IP
-- !DNS
-- !Load Balancing
-- !VPN
-
-### Security
-- !IAM
-- !Security Groups
-- !SSL
+- ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)
+- ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab&logoColor=white)
+- ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=bitbucket&
 
 ## Projects
 - [**CI/CD Pipeline Automation**](https://github.com/yourusername/ci-cd-pipeline): Automated the deployment pipeline using Jenkins and Docker for a microservices architecture.
