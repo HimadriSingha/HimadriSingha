@@ -5,35 +5,40 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects.
 
-- 🔭 I’m currently working on GIS Project
-- 🌱 I’m currently learning GO.
+- 🔭 I’m currently working on WATERBODY Project
+- 🌱 I’m currently learning KUBERNETES
 - 👯 I’m looking to collaborate on My project
 - 💬 Ask me about MySkills.
-- 📫 How to reach me: [email@example.com]
-- ⚡ Fun fact: [something interesting about you]
+- 📫 How to reach me: himadrisingha2001@gmail.com
+- ⚡ Fun fact: Fitness Addicted
 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000&color=000" alt="HTML5" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000&color=000" alt="CSS3" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000&color=000" alt="JavaScript" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=000&color=000" alt="PHP" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000&color=000" alt="Python" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django&logoColor=092E20&labelColor=000&color=000" alt="Django" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" alt="React" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-React%20Native-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" alt="React Native" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000&color=000" alt="Next.js" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Angular-333?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=000&color=000" alt="Angular" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000&color=000" alt="Node.js" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000&color=000" alt="Express" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000&color=000" alt="TypeScript" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=000&color=000" alt="Bootstrap" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-333?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=000&color=000" alt="Tailwind CSS" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=000&color=000" alt="SCSS" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Shell_Scripting-333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000&color=000" alt="Shell Scripting" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=007396&labelColor=000&color=000" alt="Java" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000&color=000" alt="SQL" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-YAML-333?style=for-the-badge&logo=yaml&logoColor=FFFF00&labelColor=000&color=000" alt="YAML" style="border-radius: 50%;" height="40"/>
+
+  <img src="https://img.shields.io/badge/-Ansible-333?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=000&color=000" alt="Ansible" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Jenkins-333?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=000&color=000" alt="Jenkins" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000&color=000" alt="Docker" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=000&color=000" alt="Kubernetes" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Terraform-333?style=for-the-badge&logo=terraform&logoColor=623CE4&labelColor=000&color=000" alt="Terraform" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000&color=000" alt="Git" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000&color=000" alt="MongoDB" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000&color=000" alt="MySQL" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Nagios-333?style=for-the-badge&logo=nagios&logoColor=00C957&labelColor=000&color=000" alt="Nagios" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Prometheus-333?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=000&color=000" alt="Prometheus" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Grafana-333?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=000&color=000" alt="Grafana" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-ELK_Stack-333?style=for-the-badge&logo=elastic&logoColor=005571&labelColor=000&color=000" alt="ELK Stack" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Apache_HTTP_Server-333?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=000&color=000" alt="Apache HTTP Server" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Nginx-333?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=000&color=000" alt="Nginx" style="border-radius: 50%;" height="40"/>
+
+  <img src="https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000&color=000" alt="AWS" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Azure-333?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4&labelColor=000&color=000" alt="Azure" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=000&color=000" alt="Linux" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Windows_Server-333?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=000&color=000" alt="Windows Server" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-VMware-333?style=for-the-badge&logo=vmware&logoColor=607078&labelColor=000&color=000" alt="VMware" style="border-radius: 50%;" height="40"/>
 </p>
 
 ## 🚀 My Projects
