@@ -59,7 +59,7 @@ Here are some of my favorite projects:
 
 ## 🌟 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project1&theme=radical)](https://github.com/7735Kanhu/project1)
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project1&theme=radical)](https://github.com/7735Kanhu/project1](https://github.com/Pradip-web-Bariflolabs/Aqua-culture_IOT_Dashboard.git))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project2&theme=radical)](https://github.com/7735Kanhu/project2)
 
 ## 📫 Connect with Me
