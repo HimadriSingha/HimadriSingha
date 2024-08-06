@@ -62,14 +62,6 @@ Here are some of my favorite projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project1&theme=radical)](https://github.com/7735Kanhu/project1)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project2&theme=radical)](https://github.com/7735Kanhu/project2)
 
-## 📝 Blog Posts
-
-Check out my latest blog posts:
-
-- [*Title of Blog Post 1*](https://link-to-blog1.com)
-- [*Title of Blog Post 2*](https://link-to-blog2.com)
-- [*Title of Blog Post 3*](https://link-to-blog3.com)
-
 ## 📫 Connect with Me
 
 - Naukri: [your-Naukri-profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
