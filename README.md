@@ -60,20 +60,13 @@ Here are some of my favorite projects:
 ## 🌟 Pinned Repositories
 
 [![Aqua-culture_IOT_Dashboard]([https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project1&theme=radical)](https://github.com/7735Kanhu/project1](https://github.com/Pradip-web-Bariflolabs/Aqua-culture_IOT_Dashboard.git))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project2&theme=radical)](https://github.com/7735Kanhu/project2)
 
 ## 📫 Connect with Me
 
 - Naukri: [your-Naukri-profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
-## 🏅 Achievements
-
-- [Achievement 1](https://link-to-achievement)
-- [Achievement 2](https://link-to-achievement)
-- [Achievement 3](https://link-to-achievement)
-
 ## ❤️ Support Me
 
-If you like my work, consider buying me a coffee!
+If you like my work, Refer Me For A Devops job Role!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourprofile)
+[![Refer My Naukri Profile](https://www.naukri.com/mnjuser/profile?id=&altresid])
