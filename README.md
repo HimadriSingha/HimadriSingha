@@ -45,9 +45,9 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 Here are some of my favorite projects:
 
-- [*Project 1*](https://login.bc-pl.com): A brief description of your project.
-- [*Project 2*](https://aqua.bc-pl.com): A brief description of your project.
-- [*Project 3*](https://water.bc-pl.com): A brief description of your project.
+- [*Central Authentication System*](https://login.bc-pl.com): Central Authentication System for Waterbody & Aquacultre project.
+- [*Aquaculture Project*](https://aqua.bc-pl.com): Monitoring Deployed IOT Devices in Aqua Farming Pond .
+- [*Waterbody Management*](https://water.bc-pl.com): Waste Water Treatment in Large & Small Waterbody.
 
 ## 📊 GitHub Stats
 
