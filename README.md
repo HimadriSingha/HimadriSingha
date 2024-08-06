@@ -45,9 +45,9 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 Here are some of my favorite projects:
 
-- [*Project 1*](https://github.com/7735Kanhu/project1): A brief description of your project.
-- [*Project 2*](https://github.com/7735Kanhu/project2): A brief description of your project.
-- [*Project 3*](https://github.com/7735Kanhu/project3): A brief description of your project.
+- [*Project 1*](https://login.bc-pl.com): A brief description of your project.
+- [*Project 2*](https://aqua.bc-pl.com): A brief description of your project.
+- [*Project 3*](https://water.bc-pl.com): A brief description of your project.
 
 ## 📊 GitHub Stats
 
@@ -72,9 +72,7 @@ Check out my latest blog posts:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-handle)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- Naukri: [your-Naukri-profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ## 🏅 Achievements
 
