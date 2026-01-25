@@ -39,20 +39,25 @@ I enjoy building systems that are **observable, resilient, and easy to scale**.
 </table>
 
 ---
+
 ## 🏅 Certifications
 
 <p>
 <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
+---
+
 ## 🚀 What I Do
 
-- Build and manage Kubernetes platforms (EKS, RKE2)
-- Develop reusable Terraform modules for AWS
+- Design and operate Kubernetes platforms (EKS, RKE2)
+- Build reusable Terraform modules for AWS
 - Implement GitOps using ArgoCD & Helm
 - Design CI/CD pipelines for apps & infrastructure
 - Observability with Prometheus, Grafana & ELK
 - Integrate DevSecOps into CI/CD pipelines
+
+---
 
 ## 🧰 DevOps Toolchain
 
@@ -76,8 +81,7 @@ I enjoy building systems that are **observable, resilient, and easy to scale**.
 <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" height="48"/>
 <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" height="48"/>
 
-### 🗄️ Version Control
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+---
 
 ## 🤝 Connect With Me
 
@@ -87,6 +91,8 @@ I enjoy building systems that are **observable, resilient, and easy to scale**.
 <a href="https://github.com/HimadriSingha">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+---
 
 ## 📊 GitHub Activity
 
