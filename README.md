@@ -1,24 +1,43 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanPathak-DevOps/AmanPathak-DevOps/main/banner.png" alt="DevOps Banner" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Himadri Singha from India 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Himadri Singh from India 🇮🇳</h1>
 
 <h3 align="center">
-Mid-Level DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
+DevOps & Cloud Engineer | Automating Infrastructure | Building Reliable Systems at Scale
 </h3>
 
-<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=HimadriSingha&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HimadriSingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Mid-Level DevOps & Cloud Engineer with hands-on experience in designing, automating, and operating cloud-native and Kubernetes-based platforms.
+<table>
+<tr>
+<td width="60%">
 
-My focus areas include **scalability, reliability, security, automation, and cost-optimized infrastructure** across development and production environments.
+I am a **DevOps & Cloud Engineer** with strong experience in designing, automating, and operating **production-grade cloud and Kubernetes platforms**.
+
+My core focus areas:
+- ⚙️ Infrastructure automation & IaC  
+- ☁️ Cloud-native architectures (AWS)  
+- 🚀 CI/CD & GitOps  
+- 🔐 Security, scalability & reliability  
+
+I enjoy building systems that are **observable, resilient, and easy to scale**.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-32e6cfa5-cb1d-4c9f-9c43-7bafc9e6c3b4.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
