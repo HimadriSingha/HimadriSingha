@@ -14,7 +14,7 @@ Mid-Level DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliab
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
 I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.  
 My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
@@ -106,6 +106,8 @@ My focus is on **scalability, reliability, security, and automation** across the
 ---
 
 ## 📊 GitHub Activity
+
+**🏢 Current Company:** **Emilo Ventures Private Limited**
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HimadriSingha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
