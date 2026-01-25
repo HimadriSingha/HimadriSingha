@@ -100,7 +100,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 <p align="left">
 <a href="https://github.com/HimadriSingha"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/himadri-singha-b07152301/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
