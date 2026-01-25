@@ -26,8 +26,6 @@ My focus areas include **scalability, reliability, security, automation, and cos
 
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
