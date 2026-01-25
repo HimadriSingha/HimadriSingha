@@ -127,5 +127,5 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ---
 
-📫 Reach me at **your-email@example.com**  
+📫 Reach me at **himadrisingha2001@gamil.com**  
 ⚡ Fun fact: I enjoy solving real production problems
