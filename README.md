@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HimadriSingha/HimadriSingha/main/banner.png" alt="DevOps Banner" />
+  <img src="https://raw.githubusercontent.com/HimadriSingha/HimadriSingha/main/banner.gif" alt="DevOps Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Himadri Singh from India 🇮🇳</h1>
