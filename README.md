@@ -1,72 +1,128 @@
-# Hi there, I'm Himadri 👋
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-![GitHub followers](https://img.shields.io/github/followers/HimadriSingha?style=social)
-![GitHub stars](https://img.shields.io/github/stars/HimadriSingha?style=social)
+<h1 align="center">Hi 👋, I'm Himadri Singha from India 🇮🇳</h1>
 
-Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects.
+<h3 align="center">
+Mid-Level DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
+</h3>
 
-- 🔭 I’m currently working on WATERBODY Project
-- 🌱 I’m currently learning KUBERNETES
-- 👯 I’m looking to collaborate on My project
-- 💬 Ask me about MySkills.
-- 📫 How to reach me: himadrisingha2001@gmail.com
-- ⚡ Fun fact: Fitness Addicted
-
-## 🛠️ Technologies & Tools
+<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000&color=000" alt="Python" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Shell_Scripting-333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000&color=000" alt="Shell Scripting" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=007396&labelColor=000&color=000" alt="Java" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000&color=000" alt="SQL" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-YAML-333?style=for-the-badge&logo=yaml&logoColor=FFFF00&labelColor=000&color=000" alt="YAML" style="border-radius: 50%;" height="40"/>
-
-  <img src="https://img.shields.io/badge/-Ansible-333?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=000&color=000" alt="Ansible" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Jenkins-333?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=000&color=000" alt="Jenkins" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000&color=000" alt="Docker" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=000&color=000" alt="Kubernetes" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Terraform-333?style=for-the-badge&logo=terraform&logoColor=623CE4&labelColor=000&color=000" alt="Terraform" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000&color=000" alt="Git" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Nagios-333?style=for-the-badge&logo=nagios&logoColor=00C957&labelColor=000&color=000" alt="Nagios" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Prometheus-333?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=000&color=000" alt="Prometheus" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Grafana-333?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=000&color=000" alt="Grafana" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-ELK_Stack-333?style=for-the-badge&logo=elastic&logoColor=005571&labelColor=000&color=000" alt="ELK Stack" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Apache_HTTP_Server-333?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=000&color=000" alt="Apache HTTP Server" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Nginx-333?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=000&color=000" alt="Nginx" style="border-radius: 50%;" height="40"/>
-
-  <img src="https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000&color=000" alt="AWS" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Azure-333?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4&labelColor=000&color=000" alt="Azure" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=000&color=000" alt="Linux" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-Windows_Server-333?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=000&color=000" alt="Windows Server" style="border-radius: 50%;" height="40"/>
-  <img src="https://img.shields.io/badge/-VMware-333?style=for-the-badge&logo=vmware&logoColor=607078&labelColor=000&color=000" alt="VMware" style="border-radius: 50%;" height="40"/>
+<img src="https://komarev.com/ghpvc/?username=HimadriSingha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## 🚀 My Projects
+---
 
-Here are some of my favorite projects:
+## 👨‍💻 About Me
 
-- [*Central Authentication System*](https://login.bc-pl.com): Central Authentication System for Waterbody & Aquacultre project.
-- [*Aquaculture Project*](https://aqua.bc-pl.com): Monitoring Deployed IOT Devices in Aqua Farming Pond .
-- [*Waterbody Management*](https://water.bc-pl.com): Waste Water Treatment in Large & Small Waterbody.
+I am a Mid-Level DevOps & Cloud Engineer with hands-on experience in designing, automating, and operating cloud-native and Kubernetes-based platforms.
 
-## 📊 GitHub Stats
+My focus areas include **scalability, reliability, security, automation, and cost-optimized infrastructure** across development and production environments.
+
+---
+
+## 🏅 Certifications
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=7735Kanhu&show_icons=true&theme=radical" alt="Kanhu's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7735Kanhu&theme=radical" alt="Kanhu's GitHub streak stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7735Kanhu&layout=compact&theme=radical" alt="Kanhu's Top Languages" height="180em"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-## 🌟 Pinned Repositories
+---
 
-[![Aqua-culture_IOT_Dashboard]([https://github-readme-stats.vercel.app/api/pin/?username=7735Kanhu&repo=project1&theme=radical)](https://github.com/7735Kanhu/project1](https://github.com/Pradip-web-Bariflolabs/Aqua-culture_IOT_Dashboard.git))
+## 🚀 What I Do
 
-## 📫 Connect with Me
+- Build and manage Kubernetes platforms (EKS, RKE2) for production workloads
+- Develop reusable Terraform modules for AWS infrastructure
+- Implement GitOps workflows using ArgoCD and Helm
+- Design and automate CI/CD pipelines for applications and infrastructure
+- Set up monitoring and observability using Prometheus, Grafana, and ELK
+- Integrate DevSecOps practices into CI/CD pipelines
 
-- Naukri: [your-Naukri-profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
+---
 
-## ❤️ Support Me
+## 🧰 DevOps Toolchain
 
-If you like my work, Refer Me For A Devops job Role!
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
+</p>
 
-[![Refer My Naukri Profile](https://www.naukri.com/mnjuser/profile?id=&altresid])
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
+
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
+
+### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
+</p>
+
+### 🔐 Security & DevSecOps
+<p>
+<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
+</p>
+
+### 🗄️ Version Control & Collaboration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+</p>
+
+---
+
+## 🌍 Community & Learning
+
+- 👥 **DevOps community discussions & learning**
+- 📞 **Open to mentorship, collaboration & freelance work**
+- 🎥 **Sharing DevOps & Cloud knowledge through blogs and content**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/HimadriSingha"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HimadriSingha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimadriSingha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimadriSingha&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HimadriSingha&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+📫 Reach me at **your-email@example.com**  
+⚡ Fun fact: I enjoy debugging real production issues and optimizing cloud costs
