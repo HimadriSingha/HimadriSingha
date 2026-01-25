@@ -24,8 +24,6 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## 🏅 Certifications
 
 <p align="left">
-<img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
