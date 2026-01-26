@@ -1,6 +1,6 @@
 ![MasterHead](banner.gif)
 
-<h1 align="center">Hi 👋, I'm Himadri Kumar Singha from India 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Himadri Kumar Singha from India</h1>
 
 <h3 align="center">
 Mid-Level DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
